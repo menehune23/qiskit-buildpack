@@ -1,0 +1,10 @@
+api = "0.8"
+
+[buildpack]
+id = "menehune23/qiskit-buildpack"
+name = "Qiskit Buildpack"
+version = "0.0.1"
+homepage = "https://github.com/menehune23/qiskit-buildpack"
+
+[[stacks]]
+id = "*"
